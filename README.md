@@ -1,14 +1,13 @@
 ## Notice
 **All personal projects in the future will be published on GitLab**
-**Gitlab profile: https://gitlab.com/david-0609**
 
 # Give Up GitHub
 
-This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+This user has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
-You can now find this project at [INSERT-URL-OR-DESCRIPTION](INSERT-URL) instead.
+You can now find this user on [GitLab](https://gitlab.com/david-0609) instead.
 
-Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
+Any use of this user's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
 
 Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
