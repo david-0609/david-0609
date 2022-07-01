@@ -18,6 +18,9 @@ Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 ### **Hello! I am a hobbyist coder with a main focus on backend development.** <br /> **I am also an advocate for Free and Open Source Software and Linux user since 2018/19.**
 
 #### Projects I am working on:
+- [Not-Too-Busy-Space](https://gitlab.com/gd-softworks/ntbs)
+
+#### Past Projects
 - OpenCV Hand Gesture Control
 
 #### Future Projects:
